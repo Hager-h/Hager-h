@@ -26,7 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=REACT)&nbsp;<br />
 
-![React-Hook](https://img.shields.io/badge/React Hook-05122A?style=flat&logo=React)&nbsp;
+![React-Hook](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=REACT)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
